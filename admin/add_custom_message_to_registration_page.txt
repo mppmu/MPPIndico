@@ -1,0 +1,11 @@
+Edit
+.venv/lib/python2.7/site-packages/indico/modules/auth/templates/register.html
+
+Delete bundle?
+rm .venv/lib/python2.7/site-packages/indico/web/static/dist/js/main.861b13fa.bundle.js.map
+
+Update 
+.venv/lib/python2.7/site-packages/indico/modules/auth/forms.py
+
+Restart indico as root
+systemctl restart uwsgi.service httpd.service indico-celery.service
