@@ -1,0 +1,10 @@
+Put image to ./lib/python2.7/site-packages/indico/web/static/images/mpp_globe.jpg
+
+
+Edit
+./indico/web/static/dist/css/module_rb.60c7ef42.css.map
+
+
+Or just replace ./lib/python2.7/site-packages/indico/web/static/images/globe.png
+
+convert to size 1920x850  mpp_globe.jpg  globe.png
