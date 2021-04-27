@@ -1,0 +1,22 @@
+the coordinates default map are in
+https://github.com/indico/indico/blob/2.3-maintenance/indico/modules/rb/client/js/modules/admin/MapAreasPage.jsx
+
+and in 
+
+.venv/lib/python2.7/site-packages/indico/web/static/dist/js/module_rb.3620d5bd.bundle.js.map
+
+
+const DEFAULT_CENTER = [46.233832398, 6.053166454];
+
+48.18439 11.61314
+
+
+sed -i 's/const DEFAULT_CENTER \= \[46\.233832398\, 6\.053166454\]\;/const DEFAULT_CENTER \= \[48\.18439\, 11\.61314]\;/g'  module_rb.3620d5bd.bundle.js.map
+
+
+But it does not work.
+
+
+Instead:
+
+Create a rectnagle with MPP cordinates and set it as a default area.

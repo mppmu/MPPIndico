@@ -3,3 +3,5 @@ Edit
 
 Restart indico as root
 systemctl restart uwsgi.service httpd.service indico-celery.service
+
+
