@@ -1,0 +1,14 @@
+Edit
+.venv/lib/python2.7/site-packages/indico/modules/auth/templates/register.html   --  THIS is needed as well
+
+Update 
+.venv/lib/python2.7/site-packages/indico/modules/auth/forms.py
+
+Restart indico as root
+systemctl restart uwsgi.service httpd.service indico-celery.service
+
+The Button widget:
+from wtforms.fields import BooleanField, PasswordField, SelectField, StringField, TextAreaField
+
+TOS = BooleanField( _('TOS'), [DataRequired()], description=_("I agree to the terms and conditions of service of MPP Indico https:/indico.mpp.mpg.de/tos"))
+
