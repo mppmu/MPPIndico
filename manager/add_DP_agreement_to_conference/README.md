@@ -1,0 +1,7 @@
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/1.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/2.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/3.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/4.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/5.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/6.png)
+![](https://raw.githubusercontent.com/mppmu/MPPIndico/master/manager/add_DP_agreement_to_conference/7.png)
