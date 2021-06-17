@@ -3,19 +3,20 @@ Dear conference manager,
 if you allow users without an Indico account to register for yur conference, two extra mandatory fields should be added to the registration form.
 
 - "Acceptance of MPP Indico terms and conditions"
-Should contain text 
-"
-I have read the MPP Indico service terms and conditions at https://indico.mpp.mpg.de/tos and accept them.
-"
+
+  Should contain text 
+  ```
+  I have read the MPP Indico service terms and conditions at https://indico.mpp.mpg.de/tos and accept them.
+  ```
 
 - "I consent to processing of my personal data entered in this form"
-Should contain text 
+  Should contain text 
 
-"
-I consent to processing of my personal data in this form. 
-The Data Protection Information for the MPP Indico can be found at https://indico.mpp.mpg.de/privacy. 
-In case you don't consent, please contact the event organizers to register in other way.
-"
+  ```
+  I consent to processing of my personal data in this form. 
+  The Data Protection Information for the MPP Indico can be found at https://indico.mpp.mpg.de/privacy. 
+  In case you don't consent, please contact the event organizers to register in other way.
+  ```
 
 The way to add an extra field is shown below
 
