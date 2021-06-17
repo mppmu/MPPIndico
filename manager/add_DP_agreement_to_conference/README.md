@@ -14,7 +14,9 @@ if you allow users without an Indico account to register for yur conference, two
   Should contain text 
 
   ```
-  I consent to processing of my personal data in this form. 
+  I consent to the processing of my personal data by the MPP for the
+  purposes of conference registration.  I understand that my name and institution
+  are published in the list of participants as part of the registration process.
   The Data Protection Information for the MPP Indico can be found at https://indico.mpp.mpg.de/privacy. 
   In case you don't consent, please contact the event organizers to register in other way.
   ```
